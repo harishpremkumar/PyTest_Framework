@@ -17,12 +17,12 @@ Here's an overview of the project's folder structure:
 
 ## Requirements
 
-- Python 3.6 or higher
-- [Selenium](https://www.selenium.dev/) pip install selenium
-- [pytest](https://docs.pytest.org/en/stable/)  pip install pytest
-- [pytest-bdd](https://pytest-bdd.readthedocs.io/en/latest/)    pip install pytest-bdd
-- [pytest-html](https://pytest-html.readthedocs.io/en/latest/)  pip install pytest-html
-- [pytest-xdist](https://pytest-xdist.readthedocs.io/en/latest/)    pip install pytest-xdist
+- Python 3.9 or higher
+- [Selenium](https://pypi.org/project/selenium/) pip install selenium
+- [pytest](https://pypi.org/project/pytest/)  pip install pytest
+- [pytest-bdd](https://pypi.org/project/pytest-bdd/)    pip install pytest-bdd
+- [pytest-html](https://pypi.org/project/pytest-html/)  pip install pytest-html
+- [pytest-xdist](https://pypi.org/project/pytest-xdist/)    pip install pytest-xdist
 
 ## Installation
 
