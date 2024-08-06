@@ -17,12 +17,39 @@ Here's an overview of the project's folder structure:
 
 ## Requirements
 
-- Python 3.6 or higher
-- [Selenium](https://www.selenium.dev/) pip install selenium
-- [pytest](https://docs.pytest.org/en/stable/)  pip install pytest
-- [pytest-bdd](https://pytest-bdd.readthedocs.io/en/latest/)    pip install pytest-bdd
-- [pytest-html](https://pytest-html.readthedocs.io/en/latest/)  pip install pytest-html
-- [pytest-xdist](https://pytest-xdist.readthedocs.io/en/latest/)    pip install pytest-xdist
+- **Selenium**
+  - [Selenium](https://pypi.org/project/selenium/) is used for browser automation.
+  - Install it using pip:
+    ```bash
+    pip install selenium
+    ```
+
+- **pytest**
+  - [pytest](https://pypi.org/project/pytest/) is a framework for writing and running tests.
+  - Install it using pip:
+    ```bash
+    pip install pytest
+    ```
+
+- **pytest-bdd**
+  - [pytest-bdd](https://pypi.org/project/pytest-bdd/) adds behavior-driven development (BDD) capabilities to pytest.
+  - Install it using pip:
+    ```bash
+    pip install pytest-bdd
+    ```
+
+- **pytest-html**
+  - [pytest-html](https://pypi.org/project/pytest-html/) generates HTML reports from your test results.
+  - Install it using pip:
+    ```bash
+    pip install pytest-html
+    ```
+
+- **pytest-xdist**
+  - [pytest-xdist](https://pypi.org/project/pytest-xdist/) allows for parallel test execution and other advanced features.
+  - Install it using pip:
+    ```bash
+    pip install pytest-xdist
 
 ## Installation
 
