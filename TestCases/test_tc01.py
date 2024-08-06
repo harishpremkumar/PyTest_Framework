@@ -19,6 +19,8 @@ scenarios('../features/tc01.feature')
 def driver():
     options = Options()
     options.add_argument('--incognito')
+    options.add_argument('--headless')
+    options.add_argument('--incognito')
     driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(TIMEOUT)
     driver.maximize_window()
